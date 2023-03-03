@@ -1,2 +1,4 @@
-#!/bin/bash
+#!/bin/bashD
 echo "The school is open! how?"
+echo "The school is open! today and again"
+
